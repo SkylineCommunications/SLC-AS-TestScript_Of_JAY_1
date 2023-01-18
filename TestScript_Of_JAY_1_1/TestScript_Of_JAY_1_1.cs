@@ -67,5 +67,7 @@ public class Script
 	public void Run(Engine engine)
 	{
 		engine.GenerateInformation("Hello World JAY 1.");
+		engine.GenerateInformation("Hello Telenor, this is your first CI/CD script!");
+
 	}
 }
