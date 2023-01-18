@@ -23,8 +23,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Code Analysis", "Code Analy
 		Internal\Code Analysis\qaction-release.ruleset = Internal\Code Analysis\qaction-release.ruleset
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationScript_ClassLibrary", "AutomationScript_ClassLibrary\AutomationScript_ClassLibrary.csproj", "{CDB132D1-978F-4404-9330-542198D95009}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestScript_Of_JAY_1", "TestScript_Of_JAY_1", "{30C69324-A1F4-4AD3-B52C-1E8D6A2647A3}"
 	ProjectSection(SolutionItems) = preProject
 		TestScript_Of_JAY_1.xml = TestScript_Of_JAY_1.xml
@@ -40,10 +38,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CDB132D1-978F-4404-9330-542198D95009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CDB132D1-978F-4404-9330-542198D95009}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CDB132D1-978F-4404-9330-542198D95009}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CDB132D1-978F-4404-9330-542198D95009}.Release|Any CPU.Build.0 = Release|Any CPU
 		{48DC5C1B-EA9E-43A5-B329-E4411A43E49A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{48DC5C1B-EA9E-43A5-B329-E4411A43E49A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48DC5C1B-EA9E-43A5-B329-E4411A43E49A}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -54,7 +48,6 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{F6034403-2FAA-4281-98B1-C2C1DC5CC4C9} = {428382BA-7E37-4CC6-8172-5C827F67F071}
-		{CDB132D1-978F-4404-9330-542198D95009} = {428382BA-7E37-4CC6-8172-5C827F67F071}
 		{30C69324-A1F4-4AD3-B52C-1E8D6A2647A3} = {A2C81FD1-B59F-469D-BDF0-D8ABFA875AD4}
 		{0737BAC5-FC9A-4225-933B-4909DF5E0A7F} = {30C69324-A1F4-4AD3-B52C-1E8D6A2647A3}
 		{48DC5C1B-EA9E-43A5-B329-E4411A43E49A} = {0737BAC5-FC9A-4225-933B-4909DF5E0A7F}
